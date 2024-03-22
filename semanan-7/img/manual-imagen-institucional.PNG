@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Page Title -->
+        <title>Manual de Imagen</title>
+        <meta name="description" content="El INCAP ofrece estos recursos digitales para poder disponer, descargar y administrar de manera efectiva su imagen corporativa.">
+        <meta name="keywords" content="incap, instituto aprendizaje, recurso academico INCAP, plantillas academicas INCAP" />
+        <!-- MD -->
+        <meta property="og:type" content="business.business">
+        <meta property="og:title" content="Imagen Institucional INCAP">
+        <meta property="og:url" content="https://incap.edu.co//manual-imagen-institucional.html">
+        <meta property="og:image" content="https://www.incap.edu.co/seinvencible/images/favicon/favincap.png">
+        <meta property="og:description" content="El INCAP ofrece estos recursos digitales para poder disponer, descargar y administrar de manera efectiva su imagen corporativa.">
+        <meta property="business:contact_data:street_address" content="Chapinero Av caracas Nº 63-66">
+        <meta property="business:contact_data:locality" content="Bogotá">
+        <meta property="business:contact_data:region" content="Bogotá">
+        <meta property="business:contact_data:postal_code" content="110111">
+        <meta property="business:contact_data:country_name" content="Colombia">
+        <meta property="og:image:width" content="800" />
+        <meta property="og:image:height" content="600" />
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@incap_oficial">
+        <meta name="twitter:title" content="Imagen Institucional INCAP">
+        <meta name="twitter:description" content="El INCAP ofrece estos recursos digitales para poder disponer, descargar y administrar de manera efectiva su imagen corporativa.">
+        <link rel="image_src" href="https://incap.edu.co/images/galeria/aipi-2.jpg" />
+        <meta name="DC.title" content="técnico laboral" />
+        <meta name="geo.region" content="CO-DC" />
+        <meta name="geo.placename" content="Bogotá" />
+        <meta name="geo.position" content="2.889443;-73.783892" />
+        <meta name="ICBM" content="2.889443, -73.783892" />
+        <link rel=" icon" href="favicon/favicon.ico">
+        <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+        <link rel="manifest" href="favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+        <!-- Animate -->
+        <link rel="stylesheet" href="css/animate.min.css">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- Owl Carousel -->
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/owl.theme.default.min.css">
+        <!-- Cube Portfolio -->
+        <link rel="stylesheet" href="css/cubeportfolio.min.css">
+        <!-- Fancy Box -->
+        <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+        <!-- REVOLUTION STYLE SHEETS -->
+        <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css">
+        <link rel="stylesheet" type="text/css" href="rs-plugin/css/navigation.css">
+        <!-- Style Sheet -->
+        <link rel="stylesheet" href="css/style.css">
+        <script async defer crossorigin="anonymous"
+            src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v6.0&appId=1986916988235156&autoLogAppEvents=1">
+        </script>
+
+        <!--Fonts Answere para los iconos-->
+        <script src="https://kit.fontawesome.com/d67e3bfa87.js" crossorigin="anonymous"></script>
+        <!--Fonts Answere para los iconos-->
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-NLKCNJMEYV"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-NLKCNJMEYV');
+        </script>
+
+        <!-- End Facebook Pixel Code -->
+        <!-- Facebook Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '682144185990709'); 
+        fbq('track', 'PageView');
+        </script>
+        <noscript>
+        <img height="1" width="1" 
+        src="https://www.facebook.com/tr?id=682144185990709&ev=PageView
+        &noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
+        <!-- APERTURA TAG MANAGER EVENTO WHATSAPP-->
+            <!-- Google Tag Manager -->
+                <script>
+                    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                    })(window,document,'script','dataLayer','GTM-53HMX57');
+                </script>
+            <!-- End Google Tag Manager -->
+        <!-- CIERRE TAG MANAGER EVENTO WHATSAPP-->
+        <!--Style-->
+        <style>
+            .banner-1{
+                border-bottom-right-radius: 40px;
+                border-bottom-left-radius: 40px;
+            }
+
+            h1{
+                font-size: 55px;
+                font-weight: 700;
+                color: #f7a712;
+            }
+
+            h4{
+                font-weight: 700;
+                color: #f7a712;
+                font-size: 140%;
+            }
+
+            h5{
+                font-weight: 700;
+                color: #f7a712;
+                font-size: 140%;
+            }
+
+            a{
+                font-family: 'Karla';
+                font-weight: 500;
+            }
+
+            p{
+                font-family: 'karla';
+                font-weight: 900;
+            }
+
+            @media (min-width: 820px) {
+                .tad-vertical h1{
+                    text-align: center;
+                }
+
+            }
+        </style>
+        <!--Style-->    
+   <!--Jquery para embeber el menu-->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<!--Jquery para embeber el menu-->
+
+
+
+</head>
+
+
+<body >
+
+
+
+<!--clase que vincula al MENÚ con js-->
+<div class="componentemenu"></div>
+<!--clase que vincula al MENÚ con js-->
+
+<!--Script para el menu-->
+<script>
+$(document).ready(function () {
+$('.componentemenu').load('../componentes/menu.html');
+});
+</script>
+<!--Script para el menu-->
+<!-- APERTURA TAG MANAGER EVENTO WHATSAPP-->
+<!-- Google Tag Manager (noscript) -->
+<noscript> 
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53HMX57"
+height="0" width="0" style="display:none;visibility:hidden">        
+</iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- CIERRE TAG MANAGER EVENTO WHATSAPP-->
+
+
+        <!--Slider o banner-->
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100 banner-1" src="./images/seinvencible/manual-de-imagen-institucional/banner-imagen-institucional.png" alt="First slide">
+                </div>
+            </div>
+        </div>
+        <!--Slider o banner-->
+        <!--slider social flotante-->
+        <div class="slider-social flotante_redes">
+            <ul class="list-unstyled">
+                <li class="animated-wrap icon_redes--flotante">
+                    <a class="animated-element" href="https://www.facebook.com/incapoficial/">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="animated-wrap icon_redes--flotante">
+                    <a class="animated-element" href="https://www.tiktok.com/@incapoficial?is_from_webapp=1&sender_device=pc">
+                        <i class="fab fa-tiktok" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="animated-wrap icon_redes--flotante">
+                    <a class="animated-element" href="https://www.youtube.com/channel/UCwhslJOGMkRAI17RM7n7Ing/videos">
+                        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="animated-wrap icon_redes--flotante">
+                    <a class="animated-element" href="https://www.instagram.com/incapoficial/">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="animated-wrap icon_redes--flotante" id="bt_wsp">
+                    <a class="animated-element btn-wts-flotante" href="https://api.whatsapp.com/send?phone=573202800899" id="bt_wsp">
+                        <i class="fa fa-whatsapp" aria-hidden="true" id="bt_wsp"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!--slider social flotante-->
+        <!--Contenido-->
+        <section class="page-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="blog-detail-item row">
+                            <div class="col-lg-4">
+                                <div class="tab-vertical  widget bg-light">
+                                    <h1 class="mb-4 text-md-center">Imagen Institucional</h1>
+                                    <ul class="xblog-category m-0 alt-font nav nav-tabs" id="myTab3" role="tablist" style="display: block;">
+                                        <li class="nav-item" s> 
+                                            <a class="nav-link active" id="home-vertical-tab" data-toggle="tab" href="#home-vertical" role="tab" aria-controls="home" aria-selected="true">Manual Institucional</a>
+                                        </li>
+                                        <li class="nav-item"> 
+                                            <a class="nav-link" id="tipografia-tab" data-toggle="tab" href="#tipografia" role="tab" aria-controls="profile" aria-selected="false">Tipografía</a> 
+                                        </li>
+                                        <li class="nav-item"> 
+                                            <a class="nav-link" id="logos-tab" data-toggle="tab" href="#logos" role="tab" aria-controls="contact" aria-selected="false">Logos </a> 
+                                        </li>
+                                        <li class="nav-item"> 
+                                            <a class="nav-link" id="plantillas-word-tab" data-toggle="tab" href="#plantillas-word" role="tab" aria-controls="contact" aria-selected="false">Plantillas Word - Power Point</a> 
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-8 mb-lg-0 mb-5 mb-xs-5" style="background-color: #F8F9FA;">
+                                <!--blog contetn-->
+                                <div class="blog-item-content">
+                                    <div class="tab-content" id="myTabContent3">
+                                        <div class="tab-pane fade show active" id="home-vertical" role="tabpanel" aria-labelledby="home-vertical-tab">
+                                            <p class="lead">
+                                                <div class="text-center">
+                                                    <img  src="./images/logo/incapp.png" alt="" srcset="" width="30%"> <br>
+                                                </div>
+                                                El Instituto Colombiano de aprendizaje INCAP pone a su disposición esta opción para que usted conozca, descargue  y maneje positivamente la imagen institucional del INCAP. <br>
+                                                Nuestro principal objetivo es acercar la marca del INCAP a colaboradores, estudiantes, egresados y directivas como herramienta para reforzar, nuestro enfoque visionario y afianzando nuestros valores de identidad.
+                                                Para generar la mejor de las percepciones</p>
+                                        </div>
+                                        <div class="tab-pane fade" id="tipografia" role="tabpanel" aria-labelledby="tipografia-tab">
+                                            <div class="row">
+                                                <div class="col-md-10">
+                                                    <h5>Principal - Albertus Medium</h5>
+                                                <img src="./images/manual/tipografia1.jpg" alt="">
+                                                </div>
+                                                <div class="col-md-2 d-flex justify-content-center align-items-center">
+                                                <a href="./images/manual/albertus.zip">   <i class=" fa fa-cloud-download fa-5x "> </i></a></div>
+                                            </div>
+                                            <br>    <br> 
+                                            <div class="row">
+                                                <div class="col-md-10">
+                                                    <h5>Secundaria - Marvel</h5>
+                                                    <img src="./images/manual/tipografia2.jpg" alt="">
+                                                </div>
+                                                <div class="col-md-2  d-flex justify-content-center align-items-center">  <a  href="./images/manual/marvel22.zip">   <i class=" fa fa-cloud-download fa-5x "> </i></a></div>
+                                            </div>
+                                            <br>    <br> 
+                                            <div class="row">
+                                                <div class="col-md-10">
+                                                    <h5>Complementaria - Colaborate</h5>
+                                                <img src="./images/manual/tipografia3.jpg" alt="">
+                                            </div>
+                                                <div class="col-md-2  d-flex justify-content-center align-items-center">  <a  href="./images/manual/colaborate.zip">   <i class=" fa fa-cloud-download fa-5x "> </i></a></div>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        <div class="tab-pane fade" id="logos" role="tabpanel" aria-labelledby="logos-tab">
+                                        <!--  <h3>Tab Heading</h3> -->
+                                            <div class="row">
+                                                <div class="col-md-6 text-center">
+                                                    <img  src="/images/manual/logo.png" alt="" srcset="" width="60%"> <br>
+                                                    <a download  href="./images/manual/logo.jpg" class="btn btn-small  btn-gradient btn-rounded mt-4"> JPG <i class="fa fa-cloud-download  fa-2x"></i></a>
+                                                    <a download  href="./images/manual/logo.png" class="btn btn-small  btn-gradient btn-rounded mt-4"></i> PNG <i class="fa fa-cloud-download fa-2x "></i> </a>
+                                                    <a download  href="./images/manual/logo.svg" class="btn btn-small  btn-gradient btn-rounded mt-4"></i> SVG <i class="fa fa-cloud-download fa-2x "></i></a>
+                                                </div>
+                                                <div class="col-md-6 text-center mt-2">
+                                                    <img  style="background: #0098e2; padding: 1em;" src="./images/manual/logo-blanco.png" alt="" srcset="" width="60%"> <br>
+                                                    <a download href="./images/manual/logo-blanco.jpg"  class="btn btn-small  btn-gradient btn-rounded mt-4"> JPG <i class="fa fa-cloud-download  fa-2x"></i></a>
+                                                    <a  download href="./images/manual/logo-blanco.png" class="btn btn-small  btn-gradient btn-rounded mt-4"></i> PNG <i class="fa fa-cloud-download fa-2x "></i> </a>
+                                                    <a   download  href="./images/manual/logo-blanco.svg" class="btn btn-small  btn-gradient btn-rounded mt-4"></i> SVG <i class="fa fa-cloud-download fa-2x "></i></a>
+                                                </div>                                   
+                                            </div>
+                                            <br><br>
+                                        </div>
+                                        <div class="tab-pane fade" id="plantillas-word" role="tabpanel" aria-labelledby="plantillas-word-tab p-5">
+                                            <h4>Plantillas a Color</h4>
+                                            <div class="row">  
+                                                <div class="col-md-6 text-center">
+                                                    <img class="img-fluid" style="border-radius: 15px;" src="./images/manual/word.png" alt="" srcset="" width="70%"> <br>
+                                                    <a   download   href="./images/manual/plantilla.docx" class="btn btn-large  btn-gradient btn-rounded mt-4"> Descargar  <i class="fa fa-cloud-download  fa-2x"></i></a>
+                                                </div>
+                                                <div class="col-md-6 text-center">
+                                                    <img class="img-fluid" style="border-radius: 15px;" src="./images/manual/powerpoint.png" alt="" srcset="" width="70%"> <br>
+                                                    <a   download   href="./images/manual/plantilla.pptx" class=" btn btn-large  btn-gradient btn-rounded mt-4  "> Descargar  <i class="fa fa-cloud-download  fa-2x"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--right side-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Contenido-->
+        <!--Footer-->
+        <section class="p-5" style="background-color: #343B4B;">
+            <!--Start section Footer-->
+            <footer>
+                <!--Clientify Tracking Begins-->
+                <script type="text/javascript">
+                    if (typeof trackerCode ==='undefined'){
+                        (function (d, w, u, o) {
+                        w[o] = w[o] || function () {
+                            (w[o].q = w[o].q || []).push(arguments)
+                        };
+                        a = d.createElement('script'),
+                            m = d.getElementsByTagName('script')[0];
+                        a.async = 1; a.src = u;
+                        m.parentNode.insertBefore(a, m)
+                    })(document, window, 'https://analytics.clientify.net/tracker.js', 'ana');
+                    ana('setTrackerUrl', 'https://analytics.clientify.net');
+                    ana('setTrackingCode', 'CF-17197-17197-RUUNJ');
+                    ana('trackPageview');
+                }</script>
+                <!--Clientify Tracking Ends-->
+                <!--Clientify Tracking Begins Integrado con metricol-->
+                <script>function loadScript(a){
+                    var b=document.getElementsByTagName("head")[0],
+                    c=document.createElement("script");
+                    c.type="text/javascript",
+                    c.src="https://tracker.metricool.com/resources/be.js",
+                    c.onreadystatechange=a,
+                    c.onload=a,
+                    b.appendChild(c)}
+                    loadScript(function(){beTracker.t({hash:"6cf0dc66490bda2b726f2423dc0de9eb"})});
+                </script>
+                <!--Clientify Tracking Begins Integrado con metricol-->
+                <div class="container-fluid pl-5 pr-5 footer-class">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-5 col-lg-2 col-xl-2 col-xxl-2 m-0 pl-lg-5">
+                            <a href="../index.html">
+                                <img class="img-fluid" src="./images/logo/logo-footer.png" alt="">
+                            </a>
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-7 col-lg-3 col-xl-3 col-xxl-3 pl-lg-5 m-0 ">
+                            <ul>
+                                <li>
+                                    <a href="./incap-en-casa/">Campus Virtual</a>
+                                </li>
+                                <li>
+                                    <a href="./estudiante.html">Soy estudiante</a>
+                                </li>
+                                <li>
+                                    <a href="./pdf/constantes/reglamento-estudiantil.pdf">Reglamento Estudiantil</a>
+                                </li>
+                                <li>
+                                    <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https://outlook.office.com/owa/&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=634f9d97-0ee2-4cfa-83bb-a48eb9906ccf&domain_hint=comunidadincap.edu.co&nonce=636244207084987455.b8c8d8e8-68dc-414c-af4a-09c927293e84&state=/owa/%3Frealm%3omunidadincap.edu.co&sso_reload=true">Correo Electrónico</a>
+                                </li>
+                                <li>
+                                    <a href="https://site2.q10.com/Preinscripcion?aplentId=8b3b97a3-5d53-4903-ad5c-18f840eb0a13">Sistema Académico Q10</a>
+                                </li>
+                                <li>
+                                    <a href="./educacion-continua/">Educación Continua</a>
+                                </li>
+                            </ul>
+                            <div class="row">
+                                <div class="col">
+                                    <ul>
+                                        <li>
+                                            <strong><a href="tel:6015951951">PBX:5951951 | </a><a href="mailto:incap@incap.edu.co">incap@incap.edu.co</a></strong>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-7 col-lg-2 col-xl-2 col-xxl-2 p-0 m-0">
+                            <ul>
+                                <strong>Corporativo</strong>
+                                <li>
+                                    <a href="./fpqr.html">FPQRS</a>
+                                </li>
+                                <li>
+                                    <a href="./trabaja-con-nosotros.html">Trabaja con Nostros</a>
+                                </li>
+                                <li>
+                                    <a href="./politica-proteccion-de-datos.html">Politica de Proteción de Datos</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-2 col-xl-2 col-xxl-2 p-0 m-0">
+                            <ul>
+                                <strong>Sedes</strong>
+                                <li>
+                                    <a href="./sedes/sede-chapinero.html"><strong>INCAP</strong> Sede Chapinero</a>
+                                </li>
+                                <li>
+                                    <a href="./sedes/sede-centro.html"><strong>INCAP</strong> Sede Centro</a>                                    
+                                </li>
+                                <li>
+                                    <a href="./sedes/sede-soacha.html"><strong>INCAP</strong> Sede Soacha</a>                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col mt-md-3 p-0 ml-2">
+                            <img class="img-fluid" src="./images/iconos/A2022/icontec-incap.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!--End section Footer-->
+        </section> 
+        <!--INICIA Copyright -->
+        <section class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <div class="text-center text-white">
+                            &copy; 2020 Todos los Derechos reservados | Página creada por <a
+                                href="https://www.organizacionincap.co/" target="_blank" class="blanco"> GRUPO INCAP CON <i
+                                    class="fa fa-heart-o" aria-hidden="true"></i> </a> / <a
+                                href="politica-proteccion-de-datos.html" class="blanco">Política
+                                de Protección de Datos/ </a> <a href="">Resoluciones por Mineducación
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--finaliza Copyright -->
+            
+        <!--BOTONES LATERALES FLOTANTES-->
+        <a class="btn-flotante-nuevos btn-flotante-nuevos color2 boton--preincribeteFoltante2021 flotante2021 animate_animated animatepulse animate_infinite"
+            href="https://site2.q10.com/Preinscripcion?aplentId=8b3b97a3-5d53-4903-ad5c-18f840eb0a13">
+            <span class=" btn-flotante-tex font-weight-800 text-center color3" style="font-size: 8px">INSCRIPCIÓN ESTUDIANTE</span>
+            <span>
+                <p style="font-size: 25px; margin-top: -10px; " class="btn-flotante-tex color3 font-weight-800 text-center">NUEVO</p>
+            </span>
+        </a>
+        <a class="color2 btn-flotante-activos  boton--preincribeteFoltante2021 animate_animated animatepulse animate_infinite"
+            href="https://site4.q10.com/login?ReturnUrl=%2F&aplentId=8b3b97a3-5d53-4903-ad5c-18f840eb0a13">
+            <span class="font-weight-800 text-center color3 btn-flotante-tex2" style="font-size: 8px">PREMATRÍCULA ESTUDIANTE</span><span>
+                <p style="font-size: 25px; margin-top: -10px; " class=" btn-flotante-tex2 color3 font-weight-800 text-center">ACTIVO</p>
+            </span>
+        </a>
+        <!--END BOTONES LATERALES FLOTANTES-->
+        <!--Scroll Top-->
+        <a class="scroll-top-arrow gradient-bg1" href="javascript:void(0);"><i class="fa fa-angle-up"></i></a>
+        <!--Scroll Top End-->
+        <script src="./js/loader.js"></script>
+        <script src="./js/app.js"></script>
+        <!-- Animate -->
+        <link rel="stylesheet" href="css/animate.min.css">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- Owl Carousel -->
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/owl.theme.default.min.css">
+        <!-- Cube Portfolio -->
+        <link rel="stylesheet" href="css/cubeportfolio.min.css">
+        <!-- Fancy Box -->
+        <!-- REVOLUTION STYLE SHEETS -->
+        <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css">
+        <link rel="stylesheet" type="text/css" href="rs-plugin/css/navigation.css">
+        <!-- Style Sheet -->
+        <link rel="stylesheet" href="css/style.css">
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+        <script src="js/mapa.js"></script>
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.appear.js"></script>
+        <script src="js/sup.min.js"></script>
+        <script src="js/contador.js"></script>
+        <script src="js/inicio.js"></script>
+        <!-- isotop gallery -->
+        <!-- cube portfolio gallery -->
+        <script src="js/jquery.cubeportfolio.min.js"></script>
+        <!-- owl carousel slider -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- text rotate -->
+        <script src="js/morphext.min.js"></script>
+        <!-- particles -->
+        <!-- parallax Background -->
+        <script src="js/parallaxie.min.js"></script>
+        <!-- fancybox popup -->
+        <script src="js/jquery.fancybox.min.js"></script>
+        <!-- wow animation -->
+        <script src="js/wow.js"></script>
+        <!-- REVOLUTION JS FILES -->
+        <script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+        <script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+        <!-- SLIDER REVOLUTION EXTENSIONS -->
+        <script src="rs-plugin/js/extensions/revolution.extension.actions.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.carousel.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.kenburn.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.migration.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.navigation.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.parallax.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="rs-plugin/js/extensions/revolution.extension.video.min.js"></script>
+        <script src="./js/jquery.menu-aim.js" type="text/javascript"></script>
+        <!-- custom script -->
+        <script src="js/script.js"></script>
+        <!--Script webchat iconcert-->
+        <script type='text/javascript'>
+            (function() {
+              var proto  = document.location.protocol || 'http:';
+              var node   = document.createElement('script');
+              node.type  = 'text/javascript';
+              node.async = true;
+              node.src   = proto +  '//webchat-cls18-dal.i6.inconcertcc.com/v3/click_to_chat?token=0763BC68C11B01E4F7FC6FD8A536EA13';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(node, s);
+            })();
+          </script>
+          <!--Script webchat iconcert-->
+    </body>
+</html>
+
